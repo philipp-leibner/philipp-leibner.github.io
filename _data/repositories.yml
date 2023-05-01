@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - philipp-leibner
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ifs-rwth-aachen/PyRidy
+  - ifs-rwth-aachen/RWTH-Colors
+  - ifs-rwth-aachen/GERALD
+  

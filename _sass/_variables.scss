@@ -31,8 +31,21 @@ $grey-900:            #212529;
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
+// RWTH Colors
+$rwth-blau-100: #00549F !default;
+$rwth-blau-75: #407FB7 !default;
+$rwth-blau-50: #8EBAE5 !default;
+$rwth-blau-25: #C7DDF2 !default;
+$rwth-blau-10: #E8F1FA !default;
+
+$rwth-tuerkis-100: #0098A1 !default;
+$rwth-tuerkis-75: #00B1B7 !default;
+$rwth-tuerkis-50: #89CCCF !default;
+$rwth-tuerkis-25: #CAE7E7 !default;
+$rwth-tuerkis-10: #EBF6F6 !default;
+
 
 // Theme colors
 
-$code-bg-color-light:     rgba($purple-color, 0.05);
-$code-bg-color-dark:      #2c3237 !default;
+$code-bg-color-light:     rgba($rwth-blau-100, 0.05);
+$code-bg-color-dark:      #00549F !default;
