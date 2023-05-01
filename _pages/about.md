@@ -22,3 +22,4 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 After completing my M.Sc. degree in *Automation Engineering* at RWTH Aachen University, I started working as a research assistant at the [Institute of Rail Vehicles and Transport Systems](https://www.ifs.rwth-aachen.de/startseite/) to pursue my PhD. My research interests include autonomous railways, digital twins, rail vehicle dynamics, bogie diagnosis systems as well as vehicle/track monitoring solutions.
+
