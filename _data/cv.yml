@@ -40,26 +40,42 @@
       institution: Institute for Rail Vehicles and Transport Systems, RWTH Aachen University
       year: 2021 - now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - PhD thesis focussing a novel approach to monitor lateral track irregularities
+        - Working on various projects related to (railway) track monitoring solutions
+        - title: Involved in teaching of
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - Principles of Rail Vehicle Technology
+            - Track Guiding Technology
+            - Digitalization in Rail Vehicle Technology (Seminar)
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Autonomous Railways
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Sensor systems for obstacle and signal detections
+        - Certification of AI based detection systems
+        - ETCS/CBTC solutions
+        - ADAS solutions
+    - title: Rail Vehicle Dynamics
       items:
-        - Description 1.
-        - Description 2.
+        - Vibration dynamics, stability and ride comfort
+        - Wheel/Rail-Contact mechanisms 
+    - title: Vehicle/Track Monitoring Solutions
+      items:
+        - On-board bogie diagnosis systems
+        - IMU based track monitoring from in-service Vehicles
+        - Wayside vehicle monitoring
+
+- title: Skills
+  type: list
+  contents:
+    - <u>Programming:</u> Python, MATLAB, Kotlin, Java
+    - <u>Engineering-Tools:</u> MATLAB/Simulink, Simpack, Autodesk Inventor, SolidWorks
+    - <u>Tools:</u> LaTeX, Git, Office 365, Adobe Creative Suite, WordPress
+
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Cooking, Reading, Sports, Hiking
+    - <u>Hobbies:</u> Cooking, Reading, Acoustic Guitar, Sports, Hiking
