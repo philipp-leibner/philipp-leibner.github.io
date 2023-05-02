@@ -31,5 +31,5 @@ The repository furthermore contains the color definitions in some more formats (
 
 </div>
 <div class="caption">
-    Matplotlib plot of RWTH CD color palette.
+    Matplotlib example plot and plot of RWTH CD color palette.
 </div>
