@@ -25,7 +25,7 @@ The repository furthermore contains the color definitions in some more formats (
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/plot.png" title="Example Plot" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="https://github.com/ifs-rwth-aachen/RWTH-Colors/raw/master/Python/rwth-colors/tests/output/palette.png" title="Color Palette" class="img-fluid rounded z-depth-1" %}
     </div>
 
