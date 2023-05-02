@@ -149,13 +149,31 @@ The colors are provided in a PDF file as well as some templates for Microsoft Of
 
   <picture>
     
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/plot-480.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/plot-800.webp"></source>
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/plot-1400.webp"></source>
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/plot.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="Example Plot" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
     <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="https://github.com/ifs-rwth-aachen/RWTH-Colors/raw/master/Python/rwth-colors/tests/output/palette-480.webp"></source>
     <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="https://github.com/ifs-rwth-aachen/RWTH-Colors/raw/master/Python/rwth-colors/tests/output/palette-800.webp"></source>
     <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="https://github.com/ifs-rwth-aachen/RWTH-Colors/raw/master/Python/rwth-colors/tests/output/palette-1400.webp"></source>
     
 
     <!-- Fallback to the original file -->
-    <img src="https://github.com/ifs-rwth-aachen/RWTH-Colors/raw/master/Python/rwth-colors/tests/output/palette.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="example image" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    <img src="https://github.com/ifs-rwth-aachen/RWTH-Colors/raw/master/Python/rwth-colors/tests/output/palette.png" class="img-fluid rounded z-depth-1" width="auto" height="auto" title="Color Palette" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
 
   </picture>
 
